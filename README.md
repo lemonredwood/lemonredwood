@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Anand</h1>
 <h3 align="center">A curious developer from India</h3>
 
-- 🔭 I’m currently working on **vim-navigable PDF viewer**
+- 🔭 I’m currently working on **music genre classifier**
 
 - 📫 How to reach me **therohithanand@gmail.com**
 
