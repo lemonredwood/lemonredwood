@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Rohith Anand 👋</h1>
+<h1 align="center">Models that work outside the lab.</h1>
+<h3 align="center">Rohith Anand · ML Engineer · Dublin, Ireland</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Computer+Vision+%26+NLP;Incoming+MSc+Data+Science+%40+Trinity+College+Dublin;Ex-AI+Research+Associate+%40+Stryker;Kaggle+Expert" alt="Typing SVG" />
@@ -13,7 +14,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lemonredwood.lemonredwood&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
 </p>
 
-I build ML systems across deep learning, computer vision, and NLP — from research to production. I care about models that hold up outside the lab, reproducible pipelines, and claims that are actually validated. Currently researching how reliably LLMs judge clinical AI, ahead of starting my MSc in Data Science at **Trinity College Dublin** this September.
+I build ML systems across deep learning, computer vision, and NLP — from research to production. I care about models that hold up outside the lab, reproducible pipelines, and claims that are actually validated. Currently researching how reliably LLMs judge clinical AI as part of my MSc in Data Science at **Trinity College Dublin**, Dublin, Ireland.
 
 📄 [Resume](https://rohithanand.vercel.app/resume.pdf) &nbsp;•&nbsp; 🌐 [Portfolio](https://rohithanand.vercel.app)
 
