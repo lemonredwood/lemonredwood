@@ -15,28 +15,9 @@
 
 I build ML systems across deep learning, computer vision, and NLP — from research to production. I care about models that hold up outside the lab, reproducible pipelines, and claims that are actually validated. Currently researching how reliably LLMs judge clinical AI, ahead of starting my MSc in Data Science at **Trinity College Dublin** this September.
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**ClinJudge**](https://github.com/lemonredwood) | Audits LLM-as-judge evaluators for demographic bias & measurement validity via counterfactual testing | Python, vLLM, Ollama, Transformers |
-| [**The Grind**](https://lemonredwood.github.io/the-grind) | Multiplayer LeetCode tracker with real-time group progress | Supabase, Realtime, GitHub Pages |
-| **DraupECHO** | Real-time audio danger detection (93.4% accuracy) with emotion/tone classification & location-based alerts | AssemblyAI, HF Transformers, Twilio |
-| **Spatial Speak** | Voice Q&A assistant for space-agriculture research using RAG over NASA & Google Scholar data | Next.js, Ollama, LLaMA 3, RAG |
-
 📄 [Resume](https://rohithanand.vercel.app/resume.pdf) &nbsp;•&nbsp; 🌐 [Portfolio](https://rohithanand.vercel.app)
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemonredwood/lemonredwood/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemonredwood/lemonredwood/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lemonredwood/lemonredwood/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+---
 
 ### 🛠️ Languages & Tools
 
@@ -53,12 +34,6 @@ I build ML systems across deep learning, computer vision, and NLP — from resea
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonredwood&layout=compact&theme=radical&hide_border=true" alt="lemonredwood's top languages" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lemonredwood&theme=radical&no-frame=true&row=1&column=6" alt="lemonredwood's trophies" />
 </p>
 
 ### 📫 Reach me
