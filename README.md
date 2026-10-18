@@ -10,7 +10,7 @@
   <a href="https://kaggle.com/therohithanand" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://leetcode.com/lemonredwood" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:therohithanand@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=lemonredwood&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lemonredwood.lemonredwood&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
 </p>
 
 I build ML systems across deep learning, computer vision, and NLP — from research to production. I care about models that hold up outside the lab, reproducible pipelines, and claims that are actually validated. Currently researching how reliably LLMs judge clinical AI, ahead of starting my MSc in Data Science at **Trinity College Dublin** this September.
