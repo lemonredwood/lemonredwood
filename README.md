@@ -2,7 +2,7 @@
 <h3 align="center">Rohith Anand · Dublin, Ireland</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+NLP;MSc+Data+Science+%40+Trinity+College+Dublin;Ex-AI+Research+Associate+%40+Stryker;Kaggle+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Deep+Learning+%26+NLP;MSc+Data+Science+%40+Trinity+College+Dublin;Ex-AI+Research+Associate+%40+Stryker;Kaggle+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
